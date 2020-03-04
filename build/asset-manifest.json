@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/plum-orchard/walk-off-the-earthstatic/css/main.9e18d85f.chunk.css",
+    "main.js": "/plum-orchard/walk-off-the-earthstatic/js/main.6492bd3a.chunk.js",
+    "main.js.map": "/plum-orchard/walk-off-the-earthstatic/js/main.6492bd3a.chunk.js.map",
+    "runtime-main.js": "/plum-orchard/walk-off-the-earthstatic/js/runtime-main.a35ba93a.js",
+    "runtime-main.js.map": "/plum-orchard/walk-off-the-earthstatic/js/runtime-main.a35ba93a.js.map",
+    "static/css/2.e334abbf.chunk.css": "/plum-orchard/walk-off-the-earthstatic/css/2.e334abbf.chunk.css",
+    "static/js/2.7bc4d834.chunk.js": "/plum-orchard/walk-off-the-earthstatic/js/2.7bc4d834.chunk.js",
+    "static/js/2.7bc4d834.chunk.js.map": "/plum-orchard/walk-off-the-earthstatic/js/2.7bc4d834.chunk.js.map",
+    "index.html": "/plum-orchard/walk-off-the-earthindex.html",
+    "precache-manifest.ab773485be04dbc4146c74d1d94d7447.js": "/plum-orchard/walk-off-the-earthprecache-manifest.ab773485be04dbc4146c74d1d94d7447.js",
+    "service-worker.js": "/plum-orchard/walk-off-the-earthservice-worker.js",
+    "static/css/2.e334abbf.chunk.css.map": "/plum-orchard/walk-off-the-earthstatic/css/2.e334abbf.chunk.css.map",
+    "static/css/main.9e18d85f.chunk.css.map": "/plum-orchard/walk-off-the-earthstatic/css/main.9e18d85f.chunk.css.map",
+    "static/js/2.7bc4d834.chunk.js.LICENSE.txt": "/plum-orchard/walk-off-the-earthstatic/js/2.7bc4d834.chunk.js.LICENSE.txt",
+    "static/media/ap.svg": "/plum-orchard/walk-off-the-earthstatic/media/ap.055791fe.svg",
+    "static/media/fb.svg": "/plum-orchard/walk-off-the-earthstatic/media/fb.137da08d.svg",
+    "static/media/home.svg": "/plum-orchard/walk-off-the-earthstatic/media/home.9b6c17d8.svg",
+    "static/media/ig.svg": "/plum-orchard/walk-off-the-earthstatic/media/ig.5578047d.svg",
+    "static/media/sp.svg": "/plum-orchard/walk-off-the-earthstatic/media/sp.36bd3793.svg",
+    "static/media/tw.svg": "/plum-orchard/walk-off-the-earthstatic/media/tw.217ac43a.svg",
+    "static/media/yt.svg": "/plum-orchard/walk-off-the-earthstatic/media/yt.51e766d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a35ba93a.js",
+    "static/css/2.e334abbf.chunk.css",
+    "static/js/2.7bc4d834.chunk.js",
+    "static/css/main.9e18d85f.chunk.css",
+    "static/js/main.6492bd3a.chunk.js"
+  ]
+}
